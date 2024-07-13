@@ -28999,3 +28999,10 @@ Email not verified https://playit.gg/account/settings/account/verify-email
 TUNNELS
 public-settle.gl.at.ply.gg:1430 => 127.0.0.1:1430 (proto: Udp, port count: 1)
 double-productions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720858363043 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+public-settle.gl.at.ply.gg:1430 => 127.0.0.1:1430 (proto: Udp, port count: 1)
+double-productions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
